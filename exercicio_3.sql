@@ -1,7 +1,7 @@
 set serveroutput on size unlimited;
 
 prompt =========================================================================
-prompt == EXERCICIO 3 :: DEBUG DE REGRAS DE NEGOCIO (CORRECAO SET-BASED)
+prompt == EXERCICIO 3 :: IDENTIFICACAO E CORRECAO DE BUG NA LOGICA
 prompt =========================================================================
 
 prompt Limpando objetos existentes para reexecucao...
