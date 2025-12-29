@@ -1,9 +1,5 @@
 # Exercícios PL/SQL
 
-Olá, aqui você vai encontrar alguns exercícios simples com foco em PL/SQL.
-Caso possua dúvidas, não hesite em perguntar.
-Boa sorte!
-
 ## Exercício 1
 Você recebeu uma procedure que realiza a inserção de apostas no banco de dados. O objetivo deste teste é analisar o código existente, identificar possíveis problemas de performance e propor melhorias.
 
